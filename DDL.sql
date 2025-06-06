@@ -1,4 +1,6 @@
 
+CREATE DATABASE tienda_db;
+
 USE tienda_db
 
 -- 1. Tabla de tipos de usuarios
